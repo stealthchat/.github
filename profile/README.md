@@ -1,4 +1,20 @@
-## Hi there 👋
+# About
+This GitHub organisation maintains the stealthchat web application
+
+# Stealthchat Project
+
+## License
+Stealthchat is licensed under the MIT-License.
+
+## Contribute?
+Do you wanna contribute to Stealthchat? Then go to our Stealthchat repository and create a discussion with the `Apply for Contribution` category.
+Your contribution should contain following points:
+ * Who you are and what do you want to contribute to the project
+ * How much time you can invest in the project
+ * 
+
+## Documentation
+The Documentation can be found in the `stealthchat` repository wiki.
 
 <!--
 
